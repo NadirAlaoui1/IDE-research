@@ -19,9 +19,9 @@ Let's compare it to to Android Studio
 
 InteliJ IDEA | Android Studio
 ------------ | --------------
-easy to use for almost everything | exclusively made for android
-Not lightweight nor heavyweight | heavyweight
-Steep learning curve | easy to learn
+easy to use for almost everything :white_check_mark: | exclusively made for android  :x:
+Not lightweight nor heavyweight  :large_orange_diamond: | heavyweight :white_check_mark:
+Steep learning curve :x: | easy to learn :white_check_mark:
 
 
 
